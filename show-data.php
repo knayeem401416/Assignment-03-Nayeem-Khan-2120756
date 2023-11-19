@@ -33,18 +33,18 @@
                 <div class="card mt-5">
                     <div class="card-header">
                         <h1 class="display-6 text-center">
-                            Fatch Data From Databae in PHP
+                            <b>Fatch Data From Databae in PHP</b>
                         </h1>
                         <div class="card-body">
                             <table class="table table-bordered text-center">
                                 <thead>
                                     <tr class="bg-dark text-white">
-                                        <td> Serial Number </td>
-                                        <td> First Name </td>
-                                        <td> Last Name </td>
-                                        <td> Mobile Number </td>
-                                        <td> Email </td>
-                                        <td> Message </td>      
+                                        <td> <b>Serial Number</b> </td>
+                                        <td> <b>First Name</b> </td>
+                                        <td> <b>Last Name</b> </td>
+                                        <td> <b>Mobile Number</b> </td>
+                                        <td> <b>Email</b> </td>
+                                        <td> <b>Message</b> </td>      
                                     </tr>
                                 </thead>
                                 <tbody>
