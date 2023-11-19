@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to right, #006666, white, #006666);
+    height: 100vh;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3%;
+}
+
+.logo {
+    width: 150px;
+    height: 100px;
+}
+
+.contact {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.form-group label {
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
